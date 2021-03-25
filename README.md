@@ -1,0 +1,1 @@
+this project using react-firebase-graphql-stripepayment gateway
