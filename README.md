@@ -1,1 +1,1 @@
-this project using react-firebase-graphql-stripepayment gateway
+this project using react-firebase-graphql-stripe payment gateway
